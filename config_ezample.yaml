@@ -1,0 +1,9 @@
+proxyVersion: v1.2
+spec:
+  ports:
+    name: "restServer"
+    bind_addr: ""
+  proxy_addr:
+    addr_server_rest: ""
+    addr_server_rest_ar: ""
+  white_ip: ["", "", "", "", "", ""]
